@@ -1,0 +1,29 @@
+name: GitHub Snake animation
+
+on:
+  schedule:
+    - cron: '0 0 * * *' 
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Snake
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y python3-pip
+          pip3 install PyGithub requests
+          curl -o snake.py https://raw.githubusercontent.com/kittinan/github-snake-animation/main/snake.py
+          python3 snake.py -u ${{ github.repository_owner }} -o snake.svg
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add snake.svg
+          git commit -m "Update snake.svg" || echo "No changes to commit"
+          git push
