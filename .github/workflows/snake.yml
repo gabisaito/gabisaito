@@ -1,17 +1,17 @@
 name: GitHub Snake animation
 
 on:
-  schedule:
-    - cron: '0 0 * * *' # roda todo dia à meia-noite
-  workflow_dispatch:
+  push:
+    branches: [main]
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
-      - name: Generate snake animation
-        uses: platane/snk@v0.1.0
+      - name: Generate Snake animation
+        uses: platane/snk@v0.1.3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: snake.svg
+          path: snake.svg
