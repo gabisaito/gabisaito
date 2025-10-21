@@ -19,5 +19,5 @@ I enjoy creating projects that span from web development to data science, and Iâ
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabisaito&show_icons=true&theme=date_night)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabisaito&theme=date_night)
 
-![Snake animation](./snake.svg)
+![Snake animation](https://raw.githubusercontent.com/gabisaito/gabisaito/main/snake.svg)
 
