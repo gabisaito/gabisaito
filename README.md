@@ -4,7 +4,8 @@ I’m 19 years old and passionate about the intersection of technology and finan
 I enjoy creating projects that span from web development to data science, and I’m always eager to learn new programming languages and explore innovative solutions.  
 
 📫 Get in touch: gabriela.saito@usp.br  
-💼 Connect with me: [linkedIn](https://www.linkedin.com/in/gabriela-saito-pereira/)
+💼 Connect with me: [linkedIn](https://www.linkedin.com/in/gabriela-saito-pereira/)  
+🎨 Check out my portfolio: [behance](https://www.behance.net/gabisaito)
 
 # 🚀 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
