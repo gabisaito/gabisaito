@@ -1,3 +1,11 @@
+# 👋 About me
+Hi, I’m Gabriela Saito!
+I’m 19 years old and passionate about the intersection of technology and finance. I’m currently studying Actuarial Science at the University of São Paulo and working as a Product Manager for Pix at PicPay.  
+I enjoy creating projects that span from web development to data science, and I’m always eager to learn new programming languages and explore innovative solutions.  
+
+📫 Get in touch: gabriela.saito@usp.br  
+💼 Connect with me: [linkedIn](https://www.linkedin.com/in/gabriela-saito-pereira/)
+
 # 🚀 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -11,17 +19,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabisaito&show_icons=true&theme=date_night)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabisaito&theme=date_night)
 
-<!--
-**gabisaito/gabisaito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
